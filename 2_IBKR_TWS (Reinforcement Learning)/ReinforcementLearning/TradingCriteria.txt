@@ -1,0 +1,16 @@
+# Major Factors to take into consideration.
+1. Each position - 1000 Units; 0.01 lots  
+2. Trading Cost - 0.062 USD (refer below)
+3. Starting Capital - 1,000 USD
+
+
+Trading Cost:
+1 Lot = 100,000 EUR
+
+100,000 = 6.2 usd to close
+10,000 = 0.62 usd to close
+1000 = 0.062 usd to close.
+We want only 0.062, thus buy costs 0.031, and close costs 0.031, totalling 0.062. use 0.031 on each open and close position
+
+Other Notes:
+1. Scale Trading Cost
